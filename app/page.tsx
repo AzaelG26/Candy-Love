@@ -1,8 +1,6 @@
 "use client";
 
-import Image from "next/image";
 import { useState } from "react";
-import CategoryCard from "./components/CategoryCard";
 import ProductCard from "./components/CategoryCard";
 
 export default function Home() {
