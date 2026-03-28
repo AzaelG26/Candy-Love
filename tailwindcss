@@ -1,0 +1,16 @@
+
+const config = {
+  content: ['./app/**/*.{ts,tsx}'],
+  theme: {
+    extend: {
+      colors: {
+        candy: {
+          pink:  '#F4C0D1',
+          rose:  '#D4537E',
+          cream: '#FFF5F0',
+        }
+      }
+    }
+  }
+}
+export default config
